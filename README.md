@@ -24,6 +24,19 @@ I am a motivated **Web Developer** and **Master of Computer Applications (MCA)**
 * **Core Concepts:** Data Structures & Algorithms
 
 ---
+## 🛠️ Skills & Tools
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ## 📂 Projects
 
