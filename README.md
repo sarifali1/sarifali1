@@ -69,7 +69,7 @@ A web‑based application to automate and manage college operations such as:
 
 ## 📫 Contact Me
 
-* 📧 Email: **[mdsarifali121@gmail.com](mailto:mdsarifali121@gmail.com)**
+* 📧 Email: **[mdsarifali121@gmail.com](mailto:msa2441139@gmail.com)**
 * 📍 Location: Bhagawangola, Murshidabad, West Bengal, India
 * 🔗 GitHub: [https://github.com/sarifali1](https://github.com/sarifali1)
 
