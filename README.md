@@ -76,12 +76,19 @@ A web-based application designed to automate and manage college operations.
 - Hindi  
 
 ---
+## 🌍 Connect with Me
 
-## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sarif-ali-a274803a6)
+[![Instagram](https://img.shields.io/badge/Instagram-Creative-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.sariiff)
+[![Facebook](https://img.shields.io/badge/Facebook-Social-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/182Tj2Uwx3/)
 
-- 📧 Email: **msa2441139@gmail.com**  
-- 📍 Location: Bhagawangola, Murshidabad, West Bengal, India  
-- 🔗 GitHub: https://github.com/sarifali1  
+---
+
+## 📫 Get in Touch
+
+- 📧 **Email:** [msa2441139@gmail.com](mailto:msa2441139@gmail.com)  
+- 📍 **Location:** Bhagawangola, Murshidabad, West Bengal, India  
+- 💻 **GitHub Profile:** [sarifali1](https://github.com/sarifali1)  
 
 ---
 
